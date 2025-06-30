@@ -20,7 +20,7 @@ To load the color scheme run
 :colorscheme dark_puerh
 ```
 
-To always use the desert color scheme add the following line to your .vimrc
+To always use the dark_puerh color scheme add the following line to your .vimrc
 
 ```HTML
 colorscheme dark_puerh
