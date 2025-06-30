@@ -1,6 +1,8 @@
 # dark_puerh.vim
 
-DARK PUERH FOR ME  - fermented tea vim color scheme - 熟普洱 - 深色发酵茶
+熟普洱 - 深色发酵茶
+
+DARK PUERH FOR ME  - fermented tea vim color scheme 
 ---
 ### Installation
 
