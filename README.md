@@ -5,7 +5,23 @@
 DARK PUERH FOR ME  - fermented tea vim color scheme 
 
 ![screenshot](screenshot.png)
----
-### Installation
 
-``curl -o ~/.vim/colors/dark_puerh.vim https://raw.githubusercontent.com/da0ab/dark_puerh.vim/master/colors/dark_puerh.vim``
+## Installation
+
+```HTML
+curl -o ~/.vim/colors/dark_puerh.vim https://raw.githubusercontent.com/da0ab/dark_puerh.vim/master/colors/dark_puerh.vim
+```
+
+## Running
+
+To load the color scheme run
+
+```HTML
+:colorscheme dark_puerh
+```
+
+To always use the desert color scheme add the following line to your .vimrc
+
+```HTML
+colorscheme dark_puerh
+```
