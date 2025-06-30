@@ -3,6 +3,8 @@
 熟普洱 - 深色发酵茶
 
 DARK PUERH FOR ME  - fermented tea vim color scheme 
+
+![screenshot](screenshot.png)
 ---
 ### Installation
 
