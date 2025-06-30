@@ -20,8 +20,8 @@ let s:gray_dark_2 =      '#4d4d4d'
 let s:my_gray =          '#666666' " Средне-серый
 let s:gray_dark_3 =      '#7f7f8c'
 let s:fg_dim =           '#a8a8a8'
-let s:bg_difftext =      '#c6c6c6'      " Светло-серый
-let s:bg_light =         '#c2bfa5'     " Светлый бежево-серый
+let s:bg_difftext =      '#c6c6c6' " Светло-серый
+let s:bg_light =         '#c2bfa5' " Светлый бежево-серый
 
 let s:my_purple =        '#af5faf' " Пурпурный
 
